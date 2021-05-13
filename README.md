@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 
 
 Data Sets for The Sparks Foundatiom GRIP Task 4 - 
